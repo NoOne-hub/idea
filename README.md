@@ -9,3 +9,5 @@
 3. 基于深度学习的基金推荐
 4. clang学习系列教程
    - 针对av进行免杀系列混淆
+5. 基于shellcode的动态混淆
+6. cobalt strike系列免杀
